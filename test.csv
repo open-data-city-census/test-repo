@@ -1,0 +1,144 @@
+city_type,datasets,portal,name,latitude,contact_email,created_at,contact_person,longitude
+Stadt,0,http://daten.aachen.de,Aachen,50.776351,,2015-01-05T17:19:11.310298,,6.0838618
+Stadt,316,,Andernach,50.4354202,,2015-01-05T17:19:10.144883,,7.3993254
+Stadt,0,,Augsburg,48.3668041,augsburg@augsburg.de,2015-01-05T17:19:42.589638,OB Sven Gerich,10.8986971
+Kreisstadt,24,,Bad Dürkheim,49.4632944,,2015-01-05T17:19:22.134802,,8.1705063
+Stadt,0,,Baindt,47.8420535,info@baindt.de,2015-01-05T17:19:39.351320,Bürgermeister Elmar Buemann,9.6622081
+Stadt,1162,http://daten.berlin.de,Berlin,52.5170365,Info@Berlin.de,2015-01-05T17:19:10.626358,,13.3888599
+Stadt,0,,Bielefeld,52.0207745,posteingang@bielefeld.de,2015-01-05T17:19:41.205820,,8.5308962
+Stadt,0,http://www.bochum.de/opendata,Bochum,51.482321,info@bochum.de,2015-01-05T17:19:18.616662,OB Frau Dr. Ottilie Scholz ,7.2187465
+Stadt,0,http://opendata.bonn.de,Bonn,50.7358511,opendata@bonn.de,2015-01-05T17:19:21.735590,Dr. Monika Hörig ,7.1006599
+Stadt,198,,Boppard,50.228893,,2015-01-05T17:19:31.160627,,7.6000539
+Stadt,23,,Bottrop,51.5710,,2017-10-16T12:42:55.950446,,6.9160
+Stadt,157,http://www.braunschweig.de/opengeodata,Braunschweig,52.27165645,,2015-01-05T17:19:23.150563,,10.5203138303942
+Stadt,273,http://daten.bremen.de,Bremen,53.0758099,info@bremen.de,2015-01-05T17:19:11.417586,Henning Sklorz,8.80717
+Stadt,0,,Burg Stargard,53.4956329,amt@stargarder-land.de,2015-01-05T17:19:45.850546,"Tilo Lorenz, Bürgermeister und Joachim Jünger, Amtsvorsteher",13.3096742
+Stadt,4,,Chemnitz,50.8322608,katja.uhlemann@stadt-chemnitz.de,2015-01-05T17:19:31.402148,Katja Uhlemann,12.9252977
+Stadt,1,,Cottbus,51.7567447,info@cottbus.de,2015-01-05T17:19:25.984860,,14.3357307
+Stadt,0,,Crimmitschau,50.8153837,stadt@crimmitschau.de ,2015-01-05T17:19:53.066140,,12.3890204
+Stadt,0,,Cunewalde,51.098454,gemeindeverwaltung@cunewalde.de,2015-01-05T17:19:39.653477,Herr Bürgermeister Thomas Martolock,14.5154299
+Stadt,0,,Dessau-Roßlau,51.8311104,pressestelle@dessau-rosslau.de,2015-01-05T17:19:43.509747,,12.2429261
+Stadt,0,,Dortmund,51.5142273,redaktion@dortmund.de,2015-01-05T17:19:51.171511,,7.4652789
+Stadt,6,,Dresden,51.0493286,presse@dresden.de,2015-01-05T17:19:29.070093,,13.7381437
+Stadt,15,,Duisburg,51.44620175,info@stadt-duisburg.de ,2015-01-05T17:19:35.379001,,6.742075968
+Stadt,0,,Düren,50.7997308,stadt@dueren.de,2015-01-05T17:19:51.315199,,6.4835199
+Stadt,37,,Düsseldorf,51.2235376,info@duesseldorf.de ,2015-01-05T17:19:34.147253,,6.7637565
+Stadt,0,,Erfurt,50.9776268,-,2015-01-05T17:19:43.061041,,11.0329359
+Stadt,0,,Essen,51.4572062,info@essen.de ,2015-01-05T17:19:51.616448,OB Reinhard Paß,7.0114963
+Stadt,33,,Esslingen am Neckar,48.7388603,roland.karpentier@esslingen.de ,2015-01-05T17:19:29.307812,Roland Karpentier,9.3010797
+Stadt,0,,Flörsheim am Main,50.0207179,-,2015-01-05T17:19:44.822012,,8.4266986
+Stadt,78,http://offenedaten.frankfurt.de,Frankfurt am Main,50.12134215,onlinebuero@stadt-frankfurt.de,2015-01-05T17:19:28.266295,OB Peter Feldmann,8.661951186
+Stadt,5,,Geldern,51.5220,,2017-10-16T15:40:13.394180,,6.3106
+Stadt,8,,Gelsenkirchen,51.55622845,redaktion@gelsen-net.de,2015-01-05T17:19:29.887978,OB Frank Baranowski,7.081511196
+Stadt,3,,Gera,50.887824,Buero.Oberbuergermeister@gera.de,2015-01-05T17:19:29.562130,OB Frau Dr. Viola Hahn,12.08134408
+Stadt,10,,Germersheim,49.2231,dfranzen@germersheim.eu,2015-01-05T17:19:29.184593,Dirk Franzen,8.36389
+Stadt,1,,Gütersloh,51.9044291,wolfgang.hein@gt-net.de,2015-01-05T17:19:22.360901,Wolfgang Hein,8.3799049
+Stadt,0,,Hagen,51.34155785,stadtverwaltung@stadt-hagen.de,2015-01-05T17:19:40.910012,,7.485660298
+Stadt,0,,Hahnbach,49.5341163,markt@hahnbach.de,2015-01-05T17:19:45.712996,Erster Bürgermeister Bernhard Lindner,11.8030529
+Stadt,0,,Haimhausen,48.3157263,gemeinde@haimhausen.de,2015-01-05T17:19:37.697011,Ersten Bürgermeister Peter Felbermeier,11.5545047
+Freie und Hansestadt,14133,http://transparenz.hamburg.de,Hamburg,53.5437641,info-office@hamburg.de,2015-01-05T17:19:18.126591,Axel Konjack,10.0099133
+Stadt,1,,Hamm,51.6615566,-,2015-01-05T17:19:21.427723,,7.81666112944453
+Stadt,1,,Hanau,50.1335542,webmaster@hanau.de,2015-01-05T17:19:12.203242,,8.9168179
+Landeshauptstadt,1,,Hannover,52.3744779,Internetredaktion@Hannover-Stadt.de,2015-01-05T17:19:22.236762,,9.7385532
+Stadt,0,,Haßloch,49.362976,kfz@hassloch.de,2015-01-05T17:19:44.098485,,8.2565755
+Stadt,0,,Heilbronn,49.1422908,https://www.heilbronn.de/bue_rat/email/?adrID=1103,2015-01-05T17:19:40.500718,,9.2186549
+Stadt,0,,Hiddenhausen,52.1590729,-,2015-01-05T17:19:52.923174,,8.6328735
+Stadt,1,,Hildesheim,52.1532179,info@hildesheim-marketing.de,2015-01-05T17:19:28.841274,Lothar Meyer-Mertel,9.9523941
+Stadt,0,,Hörsel,50.94415305,info@hoersel.de,2015-01-05T17:19:47.002107,Herr Werner Oppermann -Beauftragter der Gemeinde Hörsel,10.57165746
+Stadt,0,,Hügelsheim,48.7988149,info@emmess.de,2015-01-05T17:19:39.504589,,8.10981773
+Stadt,0,,Iserlohn,51.3728716,info@iserlohn.de,2015-01-05T17:19:52.039490,,7.7001689
+Stadt,23,,Kaiserslautern,49.4432174,-,2015-01-05T17:19:34.492846,,7.7689951
+Stadt,0,,Kaltenkirchen,53.8371714,info@kaltenkirchen.de,2015-01-05T17:19:39.793731,,9.9614889
+Stadt,4,,Karlsruhe,49.0105758,online-team@pia.karlsruhe.de,2015-01-05T17:19:32.814555,,8.4041208
+Stadt,0,,Kassel,51.3090209,kassel@kassel.de,2015-01-05T17:19:41.860209,,9.4762981
+Landeshauptstadt,0,,Kiel,54.3418225,medien@kiel.de ,2015-01-05T17:19:42.702171,,10.14440233
+Stadt,46,,Kleve,51.7987,,2017-10-16T12:43:39.575073,,6.1408
+Stadt,53,,Koblenz,50.34624975,,2015-01-05T17:19:19.203538,,7.58400984250468
+Stadt,25,http://offenedaten-koeln.de,Köln,50.9577031,e-government@stadt-koeln.de,2015-01-05T17:19:28.476122,,6.95495255522418
+Stadt,0,,Königsee,50.6720312,stadt@koenigsee.de,2015-01-05T17:19:44.681366,Volker Stein - Bürgermeister,11.09981911
+Stadt,45,,Krefeld,51.3454,,2017-10-16T12:37:28.913136,,6.5920
+Stadt,0,,Laupheim,48.2305342,stadt.laupheim@laupheim.de,2015-01-05T17:19:52.478588,,9.8771587
+Stadt,55,,Leipzig,51.340462,online-redaktion@leipzig.de ,2015-01-05T17:19:29.676391,,12.3747049
+Stadt,0,,Leverkusen,51.0324743,postmaster@stadt.leverkusen◦de,2015-01-05T17:19:45.569760,,6.9881194
+Stadt,0,,Ludwigsburg,48.8955078,rathaus@ludwigsburg.de,2015-01-05T17:19:43.801874,,9.1895802
+Hansestadt,0,,Lüneburg,53.2486018,stadt@lueneburg.de,2015-01-05T17:19:43.651072,"Suzanne Moenck, Daniel Steinmeie",10.4076954
+Stadt,0,,Lünen,51.6140848,-,2015-01-05T17:19:51.465260,,7.5239978
+Landeshauptstadt,0,,Magdeburg,52.1261437,info@magdeburg.de  ,2015-01-05T17:19:42.946806,,11.6289301
+Stadt,291,,Mainz,49.9999952,oberbuergermeister@stadt.mainz.de,2015-01-05T17:19:32.237020,,8.2710237
+Stadt,0,,Marl,51.6555514,-,2015-01-05T17:19:43.949930,,7.0968119
+Stadt,1,,Marxzell,48.8617614,gemeinde@marxzell.de,2015-01-05T17:19:27.245827,gemeinde@marxzell.de,8.4488303
+Stadt,41,,Meerbusch,0,,2017-11-27T13:09:44.401376,,0
+Stadt,0,,Modautal,49.7606,-,2015-01-05T17:19:39.042372,,8.72083
+Stadt,303,http://offenedaten.moers.de,Moers,51.4512826,offenedaten@moers.de,2015-01-05T17:19:24.709466,Claus Arndt,6.6284302
+Stadt,0,,"Monheim, St",48.8423558,info@vg-monheim.de,2015-01-05T17:19:53.496089,Bürgermeister Herrn Georg Vellinger,10.8562708
+Stadt,0,,Mülheim an der Ruhr,51.4110583,http://www.muelheim-ruhr.de/cms/shared/email_an_kontakt.php?autoruid=02b6810ed2d40ee6466813db23c1caf9&artikeluid=2a197bccc48ae86892623c4a9b1719a6,2015-01-05T17:19:41.434366,,6.880751937
+Landeshauptstadt,122,http://www.opengov-muenchen.de,München,48.1372719,egovernment@muenchen.de,2015-01-05T17:19:10.861727,Dr. Daniela Rothenhöfer,11.5754815
+Stadt,4,http://www.muenster.de/stadt/katasteramt/geodatenmanagement.html,Münster,51.9625101,redaktion@muenster.de,2015-01-05T17:19:11.848779,,7.6251879
+Stadt,0,,Neunkirchen-Seelscheid,50.8574489,gemeinde@neunkirchen-seelscheid.de ,2015-01-05T17:19:47.321013,,7.345326105
+Kreisstadt,10,,Neuwied,50.4302589,,2015-01-05T17:19:12.081691,,7.4663112
+Stadt,8,,Neu Wulmstorf,53.4667,gemeinde@rh-neu-wulmstorf.de,2015-01-05T17:19:29.991534,,9.8
+Stadt,0,,Nidderau,50.2282472,info@nidderau.de,2015-01-05T17:19:46.673381,,8.875167
+Stadt,11,,Nürnberg,49.4538723,-,2015-01-05T17:19:26.994984,,11.0772978
+Stadt,0,,Oberkirch,48.5307122,-,2015-01-05T17:19:45.276843,OB Matthias Braun,8.0783998
+Stadt,0,,"Oberviechtach, St",49.4603475,rathaus@oberviechtach.de,2015-01-05T17:19:44.229984,Ersten Bürgermeister Heinz Weigl,12.4190177
+Stadt,0,,Oerlenbach,50.1582555,oerlenbach@oerlenbach.de,2015-01-05T17:19:47.154852,Bürgermeister Herrn Siegfried Erhard,6.3835071
+Stadt,4,,Potsdam,52.42822535,Poststelle@Rathaus.Potsdam.de,2015-01-05T17:19:20.346492,,13.02407591
+Stadt,0,,"Puchheim, St",48.1580241,info@puchheim.de,2015-01-05T17:19:39.190185,,11.3518176
+Stadt,0,,Quickborn,53.7328945,info@quickborn.de  ,2015-01-05T17:19:39.938595,,9.9029286
+Stadt,0,,Rackwitz,51.4390092,info(at)plum-rackwitz.de,2015-01-05T17:19:46.819167,"Dr. Plum, Dr. Rackwitz, Dr. Elsner",12.3714685
+Stadt,0,,Ratingen,51.2973261,stadt@ratingen.de,2015-01-05T17:19:52.330580,,6.8493503
+Stadt,1,,Rheinstetten,48.9714945,rathaus@rheinstetten.de,2015-01-05T17:19:23.717316,,8.2994571
+Stadt,0,,Ronneburg,50.8631793,stadt [at] ronneburg.de,2015-01-05T17:19:38.743132,,12.1810132
+Hansestadt,218,http://opendata-hro.de ,Rostock,54.0924445,ulrich.kunze@rostock.de,2015-01-05T17:19:25.567128,OB Ulrich Kunze,12.1286127
+Landeshauptstadt,0,,Saarbrücken,49.2343618,stadt@saarbruecken.de,2015-01-05T17:19:41.541421,OB Charlotte Britz,6.9963794
+Stadt,9,,Salzgitter,52.1480205,redaktion@stadt.salzgitter.de,2015-01-05T17:19:33.544878,,10.3489635
+Landeshauptstadt,0,,Schwerin,53.6288297,ob@schwerin.de   ,2015-01-05T17:19:52.187856,OB Angelika Gramkow,11.4148038
+Stadt,0,,Seesen,51.8905566,-,2015-01-05T17:19:44.515261,,10.1703902
+Stadt,0,,Senden,48.3243749,,2015-01-05T17:19:51.762435,,10.0468113
+Stadt,0,,Siegen,50.8710529,info@siegen.de,2015-01-05T17:19:46.248337,,8.0162435
+Verbandsgemeinde,499,,Simmern,50.389471,,2015-01-05T17:19:22.483248,,7.6734439
+Stadt,0,,"Spalt, St",49.1753302,-,2015-01-05T17:19:52.770622,Bürgermeister Udo Weingart,10.9254208
+Stadt,10,,Speyer,49.3165553,,2015-01-05T17:19:20.005397,,8.433615
+Stadt,7,,Stadt Mittenwalde,52.2653762,,2015-08-29T22:11:51.127238,,13.536654
+Stadt,1,,Stadt Paderborn,51.719444444444,,2015-08-29T22:11:51.531266,,8.7572222222222
+Stadt,0,,Striegistal,51.0081435,info@striegistal.de,2015-01-05T17:19:45.436178,,13.16886797
+Landeshauptstadt,285,,Stuttgart,48.7763511,post@stuttgart.de ,2015-01-05T17:19:21.835123,,9.1829049
+Stadt,50,,Trier,49.7599119,,2015-01-05T17:19:18.273999,,6.6444925
+Stadt,4,,Uetze,52.4644432,-,2015-01-05T17:19:28.602270,,10.2025806
+Verbandsgemeinde,23,,Verbandsgemeinde Altenkirchen (Westerwald),50.68765685,,2015-01-05T17:19:29.785824,,7.63860730956498
+Verbandsgemeinde,1,,Verbandsgemeinde Bad Hönningen,50.5157382,,2015-01-05T17:19:20.226999,,7.3065922
+Verbandsgemeinde,9,,Verbandsgemeinde Bad Kreuznach,49.8431642,,2015-01-05T17:19:31.859086,,7.8657658
+Verbandsgemeinde,10,,Verbandsgemeinde Birkenfeld,49.6488236,,2015-01-05T17:19:19.661009,,7.1647477
+Verbandsgemeinde,337,,Verbandsgemeinde Cochem,50.1484113,,2015-01-05T17:19:09.891979,,7.166281
+Verbandsgemeinde,2,,Verbandsgemeinde Dannstadt-Schauernheim,49.4355521,,2015-01-05T17:19:30.544340,,8.3097391
+Verbandsgemeinde,68,,Verbandsgemeinde Dierdorf,50.5479176,,2015-01-05T17:19:10.751751,,7.6570093
+Verbandsgemeinde,2,,Verbandsgemeinde Edenkoben,49.282236,,2015-01-05T17:19:28.037599,,8.1284357
+Verbandsgemeinde,494,,Verbandsgemeinde Emmelshausen,50.1564357,,2015-01-05T17:19:12.308849,,7.5545807
+Verbandsgemeinde,534,,Verbandsgemeinde Gerolstein,50.2234404,,2015-01-05T17:19:10.381451,,6.6618586
+Verbandsgemeinde,98,,Verbandsgemeinde Hamm (Sieg),50.7666871,,2015-01-05T17:19:22.733857,,7.6783886319334
+Verbandsgemeinde,2,,Verbandsgemeinde Heidesheim am Rhein,50.00275895,,2015-01-05T17:19:20.658984,,8.12045156609348
+Verbandsgemeinde,1,,Verbandsgemeinde Höhr-Grenzhausen,50.4369616,,2015-01-05T17:19:24.964440,,7.6695837
+Verbandsgemeinde,1,,Verbandsgemeinde Kandel,49.08594315,,2015-01-05T17:19:11.745594,,8.19663013629936
+Verbandsgemeinde,324,,Verbandsgemeinde Kastellaun,50.0715547,,2015-01-05T17:19:11.079291,,7.4429326
+Verbandsgemeinde,547,,Verbandsgemeinde Kirchberg (Hunsrück),49.9330554,,2015-01-05T17:19:30.107677,,7.35476790609633
+Verbandsgemeinde,1,,Verbandsgemeinde Konz,49.6991955,,2015-01-05T17:19:27.642407,,6.573793
+Verbandsgemeinde,10,,Verbandsgemeinde Kusel,49.5399844,,2015-01-05T17:19:19.775536,,7.4008479
+Verbandsgemeinde,5,,Verbandsgemeinde Landstuhl,49.4143311,,2015-01-05T17:19:26.872578,,7.5722301
+Verbandsgemeinde,258,,Verbandsgemeinde Rheinböllen,50.0066163,,2015-01-05T17:19:33.905463,,7.6703839
+Verbandsgemeinde,207,,Verbandsgemeinde Sankt Goar-Oberwesel,50.1027814,,2015-01-05T17:19:17.879947,,7.67059682046591
+Verbandsgemeinde,28,,Verbandsgemeinde Selters (Westerwald),50.52,,2015-04-16T07:48:39.233937,,7.74
+Verbandsgemeinde,249,,Verbandsgemeinde Vallendar,50.4001381,,2015-01-05T17:19:25.336006,,7.6142479
+Stadt,0,,Waghäusel,49.2485721,-,2015-01-05T17:19:40.084304,,8.516277
+Stadt,0,,Weitramsdorf,50.255237, info@weitramsdorf.de ,2015-01-05T17:19:52.624263,,10.8794106
+Stadt,31,http://data.wennigsen.net ,Wennigsen (Deister),52.2762744,jens@spiwi.de,2015-01-05T17:19:10.014101,Jens Spiwek,9.5671846
+Stadt,89,,Wesel,51.6698,,2017-10-16T15:41:18.186745,,6.5872
+Stadt,1,,Westoverledingen,53.15,Gemeinde@westoverledingen.de ,2015-01-05T17:19:19.560706,,7.46667
+Landeshauptstadt,1,,Wiesbaden,50.0833,online-redaktion@wiesbaden-marketing.de,2015-01-05T17:19:24.587789,,8.25
+Stadt,2,,Witten,51.4370171,poststelle@stadt-witten.de  ,2015-01-05T17:19:25.454649,,7.335124
+Stadt,0,,Wittenburg,53.505962,info@stadt-wittenburg.de,2015-01-05T17:19:38.467860,,11.0847826
+Stadt,11,,Worms,49.6615131,,2015-01-05T17:19:11.633668,,8.32120408588846
+Stadt,3,https://www.wuppertal.de/rathaus-buergerservice/offene_daten/index.php,Wuppertal,51.264018,stadtverwaltung@stadt.wuppertal.de,2015-01-05T17:19:12.407584,Peter Jung,7.1780374
+Stadt,2,,Zapfendorf,50.0171801,poststelle@zapfendorf.de,2015-01-05T17:19:34.395701,,10.9314384
+Stadt,0,,Zülpich,50.6911662,buergermeister@stadt-zuelpich.de,2015-01-05T17:19:46.114088,,6.6499642
+Stadt,136,,Zweibrücken,49.2534991,,2015-01-05T17:19:23.384545,,7.37060801928933
+Stadt,1,,Zwickau,50.7185043,buergerservice@zwickau.de,2015-01-05T17:19:10.265271,,12.4939267
